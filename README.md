@@ -22,7 +22,6 @@
     cd useReducer ya da  cd useReducer-main
  3) Gerekli bağımlılıkları yükleyin:<br/>
   npm install  #Bağımlılıkları indirir. <br/> 
-  <br/>
  4)  React projesini çalıştırın:<br/>
   npm start  #Projeyi başlatır.<br/>
   
